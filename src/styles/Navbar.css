@@ -1,0 +1,59 @@
+.buttonOne,
+.buttonTwo,
+.buttonThree,
+.buttonHome {
+    cursor: pointer;
+    background-color: rgb(240, 137, 137);
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    color: black;
+    transition: all 0.3s;
+}
+
+.buttonOne:hover,
+.buttonTwo:hover,
+.buttonThree:hover,
+.buttonHome:hover {
+    background-color: red;
+    transform: scale(1.4);
+    color: white;
+    border-color: white;
+}
+
+.inputForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 10px;
+}
+
+.inputForm>input {
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
+nav {
+    background-color: rgba(83, 80, 80, 0.363);
+    padding: 20px;
+}
+
+.searchButton {
+    background-color: lightblue;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: white;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.searchButton:hover {
+    transform: scale(1.2);
+    border-color: black;
+}
+
+label {
+    font-size: small;
+}
