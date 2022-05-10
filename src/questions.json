@@ -1,0 +1,59 @@
+[{
+    "id": 1,
+    "question": "When does a new moon occur?",
+    "questionType": "radio",
+    "answerOptions": [
+        { "option": "Every 15 days", "isCorrect": true },
+        { "option": "Every 10 days", "isCorrect": false },
+        { "option": "Every 11 days", "isCorrect": false },
+        { "option": "Every 9 days", "isCorrect": false }
+    ]
+
+}, {
+
+    "id": 2,
+    "question": "What are the primitive data types in JavaScript?",
+    "questionType": "checkbox",
+    "answerOptions": [
+        { "option": "string", "isCorrect": true },
+        { "option": "boolean", "isCorrect": true },
+        { "option": "object", "isCorrect": false },
+        { "option": "array", "isCorrect": false }
+    ]
+
+}, {
+
+    "id": 3,
+    "question": "List down all the lifecycle methods in React",
+    "questionType": "textInput",
+    "answerOptions": [{ "option": "componentDidMount", "isCorrect": true }]
+}, {
+
+    "id": 4,
+    "question": "Select all DC Comic characters",
+    "questionType": "checkbox",
+    "answerOptions": [
+        { "option": "SuperMan", "isCorrect": true },
+        { "option": "BatMan", "isCorrect": true },
+        { "option": "SpiderMan", "isCorrect": false },
+        { "option": "GreenLantern", "isCorrect": true }
+    ]
+
+}, {
+    "id": 5,
+    "question": "Who is Bruce Wayne?",
+    "questionType": "radio",
+    "answerOptions": [
+        { "option": "Spiderman", "isCorrect": false },
+        { "option": "Batman", "isCorrect": true },
+        { "option": "Aquaman", "isCorrect": false },
+        { "option": "Joker", "isCorrect": false }
+    ]
+
+}, {
+
+    "id": 6,
+    "question": "Which comic does Spider-Man belong to?",
+    "questionType": "textInput",
+    "answerOptions": [{ "option": "marvel", "isCorrect": true }]
+}]
