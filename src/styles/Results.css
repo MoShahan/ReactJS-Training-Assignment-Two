@@ -1,0 +1,40 @@
+.false {
+    background-color: red;
+    color: white;
+    text-decoration: line-through;
+}
+
+.true {
+    background-color: green;
+    color: black;
+    font-weight: bold;
+}
+
+#pieChart {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: 30px auto;
+    border: 1px solid white;
+}
+
+.icons {
+    margin: auto;
+    width: 20px;
+    /* height: 20px; */
+    /* line-height: inherit; */
+    /* align-self: center; */
+}
+
+.submissionDetails {
+    padding-left: 100px;
+}
+
+.submissionDetails span {
+    font-size: 1.2rem;
+    color: rgb(180, 180, 180);
+    font-weight: bolder;
+    background-color: rgba(0, 0, 0, 0.171);
+    padding: 5px;
+    border-radius: 5px;
+}
