@@ -1,0 +1,89 @@
+[{
+    "id": 1,
+    "question": "Which are the characters from the TV Show 'Money Heist'?",
+    "questionType": "checkbox",
+    "answerOptions": [
+        { "option": "Oslo", "isCorrect": true },
+        { "option": "Nairobi", "isCorrect": true },
+        { "option": "Rio", "isCorrect": true },
+        { "option": "Maldives", "isCorrect": false }
+    ]
+}, {
+    "id": 2,
+    "question": "What is the span of years in which people time travel in the German TV Series 'DARK' ?",
+    "questionType": "radio",
+    "answerOptions": [
+        { "option": "33 years", "isCorrect": true },
+        { "option": "21 years", "isCorrect": false },
+        { "option": "50 years", "isCorrect": false },
+        { "option": "15 years", "isCorrect": false }
+    ]
+}, {
+    "id": 3,
+    "question": "Select all the characters from the TV Show 'F.R.I.E.N.D.S.'",
+    "questionType": "checkbox",
+    "answerOptions": [
+        { "option": "Joey", "isCorrect": true },
+        { "option": "Gunther", "isCorrect": true },
+        { "option": "Ursula", "isCorrect": true },
+        { "option": "Barney", "isCorrect": false }
+    ]
+}, {
+    "id": 4,
+    "question": "Select all DC Comic characters",
+    "questionType": "checkbox",
+    "answerOptions": [
+        { "option": "SuperMan", "isCorrect": true },
+        { "option": "BatMan", "isCorrect": true },
+        { "option": "SpiderMan", "isCorrect": false },
+        { "option": "GreenLantern", "isCorrect": true }
+    ]
+}, {
+    "id": 5,
+    "question": "Who is Bruce Wayne?",
+    "questionType": "radio",
+    "answerOptions": [
+        { "option": "Spiderman", "isCorrect": false },
+        { "option": "Batman", "isCorrect": true },
+        { "option": "Aquaman", "isCorrect": false },
+        { "option": "Joker", "isCorrect": false }
+    ]
+}, {
+    "id": 6,
+    "question": "Which comic does Spider-Man belong to?",
+    "questionType": "textInput",
+    "answerOptions": [{ "option": "marvel", "isCorrect": true }]
+}, {
+    "id": 7,
+    "question": "Does Python have an inbuilt array data type?",
+    "questionType": "radio",
+    "answerOptions": [
+        { "option": "Yes", "isCorrect": false },
+        { "option": "No", "isCorrect": true }
+    ]
+}, {
+    "id": 8,
+    "question": "Select all Marvel Comic characters",
+    "questionType": "checkbox",
+    "answerOptions": [
+        { "option": "DoctorStrange", "isCorrect": true },
+        { "option": "ScarletWitch", "isCorrect": true },
+        { "option": "Aquaman", "isCorrect": false },
+        { "option": "Ultron", "isCorrect": true }
+    ]
+}, {
+    "id": 9,
+    "question": "What is the capital of India?",
+    "questionType": "radio",
+    "answerOptions": [
+        { "option": "New Delhi", "isCorrect": true },
+        { "option": "Goa", "isCorrect": false },
+        { "option": "Old Delhi", "isCorrect": false },
+        { "option": "Jammu and Kashmir", "isCorrect": false }
+    ]
+}, {
+    "id": 10,
+    "question": "What is the full form of WWW in webpage address?",
+    "questionType": "textInput",
+    "answerOptions": [{ "option": "world wide web", "isCorrect": true }]
+}]

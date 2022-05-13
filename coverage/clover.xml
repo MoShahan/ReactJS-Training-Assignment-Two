@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1652456791920" clover="3.2.0">
+  <project timestamp="1652456791920" name="All files">
+    <metrics statements="147" coveredstatements="120" conditionals="100" coveredconditionals="56" methods="42" coveredmethods="33" elements="289" coveredelements="209" complexity="0" loc="147" ncloc="147" packages="7" files="14" classes="14"/>
+    <package name="src">
+      <metrics statements="11" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.tsx" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\App.tsx">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="67" count="2" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="75" count="2" type="stmt"/>
+        <line num="80" count="2" type="stmt"/>
+      </file>
+      <file name="index.tsx" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\index.tsx">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.actions">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="index.ts" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\actions\index.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="3" type="stmt"/>
+        <line num="3" count="7" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="33" coveredstatements="30" conditionals="20" coveredconditionals="16" methods="13" coveredmethods="13"/>
+      <file name="AuthQuestions.tsx" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\components\AuthQuestions.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="AuthResults.tsx" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\components\AuthResults.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="CheckboxOptions.tsx" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\components\CheckboxOptions.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="9" count="10" type="stmt"/>
+      </file>
+      <file name="QuestionCard.tsx" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\components\QuestionCard.tsx">
+        <metrics statements="21" coveredstatements="18" conditionals="14" coveredconditionals="12" methods="7" coveredmethods="7"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="11" count="7" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
+        <line num="32" count="7" type="cond" truecount="4" falsecount="0"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="39" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="42" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="51" count="8" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="63" count="8" type="stmt"/>
+        <line num="65" count="2" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+        <line num="74" count="2" type="stmt"/>
+        <line num="80" count="1" type="stmt"/>
+      </file>
+      <file name="RadioOptions.tsx" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\components\RadioOptions.tsx">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="18" count="10" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.buttons">
+      <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+      <file name="RadioButtons.tsx" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\components\buttons\RadioButtons.tsx">
+        <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="3"/>
+        <line num="11" count="16" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="19" count="8" type="stmt"/>
+        <line num="21" count="8" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="39" count="16" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.context">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="AppReducer.ts" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\context\AppReducer.ts">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="5" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages">
+      <metrics statements="92" coveredstatements="71" conditionals="78" coveredconditionals="38" methods="22" coveredmethods="14"/>
+      <file name="InputDetailsForm.tsx" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\pages\InputDetailsForm.tsx">
+        <metrics statements="16" coveredstatements="15" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="6"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+        <line num="26" count="3" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="39" count="7" type="stmt"/>
+        <line num="41" count="7" type="stmt"/>
+        <line num="43" count="7" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="50" count="7" type="stmt"/>
+        <line num="64" count="2" type="stmt"/>
+        <line num="76" count="0" type="stmt"/>
+        <line num="102" count="3" type="stmt"/>
+        <line num="104" count="6" type="stmt"/>
+        <line num="106" count="6" type="stmt"/>
+      </file>
+      <file name="Questions.tsx" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\pages\Questions.tsx">
+        <metrics statements="23" coveredstatements="12" conditionals="24" coveredconditionals="4" methods="7" coveredmethods="2"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="40" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="57" count="2" type="stmt"/>
+        <line num="59" count="2" type="stmt"/>
+        <line num="135" count="0" type="stmt"/>
+        <line num="200" count="0" type="stmt"/>
+        <line num="201" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="203" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="209" count="0" type="stmt"/>
+        <line num="215" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="216" count="0" type="stmt"/>
+        <line num="218" count="0" type="stmt"/>
+      </file>
+      <file name="Results.tsx" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\pages\Results.tsx">
+        <metrics statements="53" coveredstatements="44" conditionals="54" coveredconditionals="34" methods="8" coveredmethods="6"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="29" count="4" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="32" count="4" type="stmt"/>
+        <line num="33" count="40" type="stmt"/>
+        <line num="36" count="4" type="stmt"/>
+        <line num="49" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="50" count="12" type="stmt"/>
+        <line num="53" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="55" count="4" type="stmt"/>
+        <line num="57" count="4" type="stmt"/>
+        <line num="59" count="4" type="stmt"/>
+        <line num="60" count="4" type="stmt"/>
+        <line num="61" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="62" count="4" type="stmt"/>
+        <line num="65" count="4" type="stmt"/>
+        <line num="66" count="4" type="stmt"/>
+        <line num="79" count="8" type="stmt"/>
+        <line num="81" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="82" count="4" type="stmt"/>
+        <line num="84" count="4" type="stmt"/>
+        <line num="86" count="8" type="cond" truecount="2" falsecount="2"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="91" count="8" type="stmt"/>
+        <line num="132" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="133" count="4" type="stmt"/>
+        <line num="155" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="156" count="8" type="stmt"/>
+        <line num="157" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="158" count="4" type="stmt"/>
+        <line num="160" count="4" type="stmt"/>
+        <line num="161" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="162" count="0" type="stmt"/>
+        <line num="165" count="4" type="stmt"/>
+        <line num="214" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="215" count="4" type="stmt"/>
+        <line num="218" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="219" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="220" count="0" type="stmt"/>
+        <line num="224" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="225" count="0" type="stmt"/>
+        <line num="228" count="4" type="stmt"/>
+        <line num="280" count="0" type="stmt"/>
+        <line num="306" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="307" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.types">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="index.ts" path="C:\Users\moham\Downloads\Visual Studio Code\React\CC\assignment-two\src\types\index.ts">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+  </project>
+</coverage>
